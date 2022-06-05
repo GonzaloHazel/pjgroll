@@ -1,4 +1,4 @@
-#Rol (jeugo)
+# Rol (jeugo)
 ##### Nava Arenas Gonzalo Hazel
 Juego de roll usando python.
 
@@ -9,4 +9,5 @@ Juego de roll usando python.
 
 
 Previsualizacion:
-![Previsualizacion](/juego%20de%20roll/img/prew.png)
+
+![Previsualizacion](https://github.com/GonzaloHazel/pjgroll/blob/main/img/prew.png)
